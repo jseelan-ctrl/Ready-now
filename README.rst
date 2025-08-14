@@ -40,7 +40,7 @@
 
    <h1> / GITHUB STATS CARDS / </h1>
 
-   There are three kinds of lies: lies, damned lies, and statistics
+  "It is a capital mistake to theorize before one has data — Sherlock Holmes"
 
    <p align="center">
      <img src="https://streak-stats.demolab.com?user=jseelan-ctrl&hide_border=true&theme=modern&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%">
