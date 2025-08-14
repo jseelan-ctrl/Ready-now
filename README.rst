@@ -34,11 +34,13 @@
        <img src="https://img.shields.io/github/stars/jseelan-ctrl?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="Total GitHub stars">
      </a>
    </p>
+
 .. raw:: html
 
    <div align="center">
 
    <h1> / GITHUB STATS CARDS / </h1>
+
 
   "It is a capital mistake to theorize before one has data — Sherlock Holmes"
 
