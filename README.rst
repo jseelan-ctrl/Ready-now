@@ -31,7 +31,7 @@
    <h1> / GITHUB STATS CARDS / </h1>
 
    <a href="http://www.github.com/jseelan-ctrl">
-       <img src="https://github-readme-stats.vercel.app/api?username=jseelan-ctrl&show_icons=true&count_private=true&title_color=68109B&text_color=FF0303&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="Jeya Seelan's GitHub stats" width="800" />
+       <img src="https://github-readme-stats.vercel.app/api?username=jseelan-ctrl&show_icons=true&count_private=true&title_color=68109B&text_color=FF0303&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="M I N E  " width="800" />
    </a>
 
    <a href="http://www.github.com/jseelan-ctrl">
