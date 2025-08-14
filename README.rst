@@ -81,29 +81,3 @@
    :alt: Image
    :width: 100%
    :align: center
-.. raw:: html
-
-   <p align="center" style="margin: 20px 0;">
-     <a href="https://github.com/jseelan-ctrl/jseelan-ctrl/issues/1" target="_blank" style="
-         background-color:#ff3366; 
-         color:white; 
-         padding:12px 22px; 
-         border-radius:50px; 
-         font-size:16px; 
-         font-weight:bold; 
-         text-decoration:none;
-         display:inline-flex;
-         align-items:center;
-         gap:8px;">
-       ❤️ Like
-       <span style="
-         background-color:white;
-         color:#ff3366;
-         padding:2px 8px;
-         border-radius:12px;
-         font-size:14px;
-         font-weight:bold;">
-         0
-       </span>
-     </a>
-   </p>
