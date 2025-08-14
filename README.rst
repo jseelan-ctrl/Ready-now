@@ -26,22 +26,26 @@
    </div>
 .. raw:: html
 
+   <p align="center">
+     <a href="https://github.com/jseelan-ctrl?tab=followers">
+       <img src="https://img.shields.io/github/followers/jseelan-ctrl?label=Followers&style=flat" alt="GitHub followers">
+     </a>
+     <a href="https://github.com/jseelan-ctrl?tab=repositories&type=source">
+       <img src="https://img.shields.io/github/stars/jseelan-ctrl?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="Total GitHub stars">
+     </a>
+   </p>
+.. raw:: html
+
    <div align="center">
 
    <h1> / GITHUB STATS CARDS / </h1>
 
-   <a href="http://www.github.com/jseelan-ctrl">
-       <img src="https://github-readme-stats.vercel.app/api?username=jseelan-ctrl&show_icons=true&count_private=true&title_color=68109B&text_color=FF0303&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="M I N E  " width="800" />
-   </a>
+   There are three kinds of lies: lies, damned lies, and statistics
 
-   <a href="http://www.github.com/jseelan-ctrl">
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jseelan-ctrl&stroke=FF0303&background=000000&ring=68109B&fire=FF0303&currStreakNum=FF0303&currStreakLabel=FF0303&sideNums=68109B&sideLabels=68109B&dates=68109B&hide_border=true" width="800" />
-   </a>
-
-   <a href="http://www.github.com/jseelan-ctrl">
-       <img src="https://github-readme-activity-graph.vercel.app/graph?username=jseelan-ctrl&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="800" />
-   </a>
-
-   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="800">
-
-   </div>
+   <p align="center">
+     <img src="https://streak-stats.demolab.com?user=jseelan-ctrl&hide_border=true&theme=modern&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%">
+     <br><br>
+     <img src="https://github-readme-stats.vercel.app/api?username=jseelan-ctrl&show_icons=true&hide_border=true&theme=modern" alt="GitHub stats" width="100%">
+     <br><br>
+     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jseelan-ctrl&hide_border=true&area=true&theme=modern" alt="Activity graph" width="100%">
+   </p>
