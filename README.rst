@@ -49,3 +49,8 @@
      <br><br>
      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jseelan-ctrl&hide_border=true&area=true&theme=modern" alt="Activity graph" width="100%">
    </p>
+.. raw:: html
+
+   <p align="center">
+     <img src="https://github.com/jseelan-ctrl/jseelan-ctrl/blob/output/snake.svg" alt="snake animation">
+   </p>
