@@ -83,7 +83,7 @@
    :align: center
 .. raw:: html
 
-   <p align="center">
+   <p align="center" style="margin: 20px 0;">
      <a href="https://github.com/jseelan-ctrl/jseelan-ctrl/issues/1" target="_blank" style="
          background-color:#ff3366; 
          color:white; 
@@ -95,7 +95,7 @@
          display:inline-flex;
          align-items:center;
          gap:8px;">
-       ❤️ Like 
+       ❤️ Like
        <span style="
          background-color:white;
          color:#ff3366;
@@ -103,11 +103,7 @@
          border-radius:12px;
          font-size:14px;
          font-weight:bold;">
-         <img src="https://img.shields.io/github/issues/detail/reactions/jseelan-ctrl/jseelan-ctrl/1?style=flat-square&label=%20&color=white" alt="likes count">
+         0
        </span>
      </a>
    </p>
-.. image:: https://github.com/user-attachments/assets/a9506aab-4be5-4e8a-acb0-7b848f2ef688
-   :alt: Image
-   :width: 10%
-   :align: center
