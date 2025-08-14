@@ -77,6 +77,10 @@
    <p align="center">
      <img src="https://github.com/jseelan-ctrl/jseelan-ctrl/blob/output/snake.svg" alt="snake animation">
    </p>
+.. image:: https://github.com/user-attachments/assets/f17a7e58-4a70-4b3f-9d12-7df5d08dec4b
+   :alt: Image
+   :width: 100%
+   :align: center
 .. raw:: html
 
    <p align="center">
