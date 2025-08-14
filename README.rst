@@ -107,3 +107,7 @@
        </span>
      </a>
    </p>
+.. image:: https://github.com/user-attachments/assets/a9506aab-4be5-4e8a-acb0-7b848f2ef688
+   :alt: Image
+   :width: 10%
+   :align: center
