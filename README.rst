@@ -34,12 +34,33 @@
        <img src="https://img.shields.io/github/stars/jseelan-ctrl?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="Total GitHub stars">
      </a>
    </p>
+.. raw:: html
 
+   <!-- Skills Section -->
+   <h2 align="center" style="color:white;">I'M GOOD AT USING THESE</h2>
+   <p align="center">
+     <!-- Creative Apps -->
+     <img src="https://img.shields.io/badge/-Canva-000000?style=plastic&logo=canva&logoColor=00C4CC" alt="Canva">
+     <img src="https://img.shields.io/badge/-Picsart-000000?style=plastic&logo=picsart&logoColor=ff69b4" alt="PicsArt">
+     <img src="https://img.shields.io/badge/-AlightMotion-000000?style=plastic&logo=alight-motion&logoColor=00E5FF" alt="AlightMotion">
+     <img src="https://img.shields.io/badge/-CapCut-000000?style=plastic&logo=capcut&logoColor=white" alt="CapCut">
+
+     <!-- AI Tools -->
+     <br><br>
+     <img src="https://img.shields.io/badge/-ChatGPT-000000?style=plastic&logo=openai&logoColor=00C389" alt="ChatGPT">
+     <img src="https://img.shields.io/badge/-Leonardo%20AI-000000?style=plastic&logo=leonardo-ai&logoColor=white" alt="Leonardo AI">
+     <img src="https://img.shields.io/badge/-Perplexity-000000?style=plastic&logo=perplexity&logoColor=white" alt="Perplexity">
+     <img src="https://img.shields.io/badge/-DeepSeek-000000?style=plastic&logo=deepseek&logoColor=orange" alt="DeepSeek">
+     <img src="https://img.shields.io/badge/-Blackbox-000000?style=plastic&logo=blackbox&logoColor=white" alt="Blackbox">
+     <img src="https://img.shields.io/badge/-Gemini-000000?style=plastic&logo=google&logoColor=purple" alt="Gemini">
+     <img src="https://img.shields.io/badge/-ElevenLabs-000000?style=plastic&logo=elevenlabs&logoColor=orange" alt="ElevenLabs">
+     <img src="https://img.shields.io/badge/-Lovable-000000?style=plastic&logo=lovable&logoColor=pink" alt="Lovable">
+   </p>
 .. raw:: html
 
    <div align="center">
 
-   <h1> / GITHUB STATS CARDS / </h1>
+   <h1> GITHUB STATS CARDS  </h1>
 
 
   "It is a capital mistake to theorize before one has data — Sherlock Holmes"
@@ -55,4 +76,30 @@
 
    <p align="center">
      <img src="https://github.com/jseelan-ctrl/jseelan-ctrl/blob/output/snake.svg" alt="snake animation">
+   </p>
+.. raw:: html
+
+   <p align="center">
+     <a href="https://github.com/jseelan-ctrl/jseelan-ctrl/issues/1" target="_blank" style="
+         background-color:#ff3366; 
+         color:white; 
+         padding:12px 22px; 
+         border-radius:50px; 
+         font-size:16px; 
+         font-weight:bold; 
+         text-decoration:none;
+         display:inline-flex;
+         align-items:center;
+         gap:8px;">
+       ❤️ Like 
+       <span style="
+         background-color:white;
+         color:#ff3366;
+         padding:2px 8px;
+         border-radius:12px;
+         font-size:14px;
+         font-weight:bold;">
+         <img src="https://img.shields.io/github/issues/detail/reactions/jseelan-ctrl/jseelan-ctrl/1?style=flat-square&label=%20&color=white" alt="likes count">
+       </span>
+     </a>
    </p>
