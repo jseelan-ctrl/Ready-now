@@ -1,5 +1,5 @@
 .. raw:: html
 
-    <div align="center">
-        <strong style="font-size: 30px;"> / H E L L O  ㅤI ' M  ㅤJ E Y A S E E L A N / </strong>
-    </div>
+   <p align="center">
+      <img width="640" height="734" alt="Image" src="https://github.com/user-attachments/assets/d349ae88-bbfe-4d32-a125-273b471dd1de" />
+   </p>
